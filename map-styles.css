@@ -1,0 +1,13 @@
+.map-container {
+    width: 90vw;
+    height: 40vh;
+    background: linear-gradient(135deg, #e0eafc, #cfdef3);
+    
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px auto;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  
